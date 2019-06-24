@@ -1,0 +1,1 @@
+﻿[System.Windows.Forms.MessageBox]::Show(“Alles ok, du kannst weiterschlafen!”,”Nix passiert”,0)
